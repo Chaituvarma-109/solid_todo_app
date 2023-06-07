@@ -1,0 +1,6 @@
+{
+  "npm.enableRunFromFolder": true,
+  "npm.packageManager": "auto",
+  "npm.scriptExplorerAction": "open",
+  "debug.javascript.terminalOptions": {}
+}
